@@ -39,8 +39,6 @@ The website features a custom-built chatbot powered by **Gemini API**. The chatb
 - JavaScript
 - Gemini API key for intelligent responses
 
-> 📁 Chatbot files are stored in a separate folder inside the repository for modularity and easy management.
-
 ---
 
 ## 🚀 How to Run Locally
@@ -60,15 +58,6 @@ The website features a custom-built chatbot powered by **Gemini API**. The chatb
 3. **Open `index.html` in your browser.**  
    (No need for npm or build tools — this is a static front-end project.)
 
----
-
-## 🧠 Gemini API Setup (Optional)
-
-If you want to modify or test the chatbot functionality:
-
-1. Go to [Gemini API Console](https://aistudio.google.com/app/apikey)
-2. Create an API key
-3. Replace the placeholder API key in the chatbot script with your own.
 
 ---
 
