@@ -83,7 +83,7 @@ Full Stack Developer | WordPress Developer
 ## 📬 Contact
 
 - **Email:** huzaifa.fullstack@gmail.com  
-- **LinkedIn:** [linkedin.com/in/muhammadhuzaifa](https://www.linkedin.com/in/huzaifa-dev)
+- **LinkedIn:** [linkedin.com/in/huzaifa-dev](https://www.linkedin.com/in/huzaifa-dev)
 
 ---
 
