@@ -12,7 +12,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - 🗂️ Projects section with smooth hover effects  
 - 🤖 AI-powered chatbot integrated using Gemini API  
 - 🎯 WOW.js animations for scroll effects  
-- 🔁 SwiperJS carousel for interactive sliders  
+- 🔁 SwiperJS carousel for interactive sliders
+- Functional form
 - 🌐 Hosted live on [Hostinger](https://www.hostinger.com/)
 
 ---
