@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and an integrated chatbot powered by Gemini API. Built using modern web development tools like HTML, CSS, Bootstrap, JavaScript, SwiperJS, and WOW.js, this portfolio is fully responsive and visually engaging.
 
-🔗 **Live Site:** [muhammadhuzaifa.me](https://muhammadhuzaifa.me)
+🔗 **Live Site:** [muhammadhuzaifa.dev](https://muhammadhuzaifa.dev)
 
 ---
 
