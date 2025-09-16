@@ -65,7 +65,7 @@ The website features a custom-built chatbot powered by **Gemini API**. The chatb
 
 **Muhammad Huzaifa**  
 Full Stack Developer | WordPress Developer  
-🔗 [muhammadhuzaifa.me](https://muhammadhuzaifa.me)
+🔗 [muhammadhuzaifa.dev](https://muhammadhuzaifa.dev)
 
 ---
 
